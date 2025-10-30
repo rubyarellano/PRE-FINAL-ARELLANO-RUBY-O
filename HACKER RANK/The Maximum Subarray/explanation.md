@@ -1,0 +1,1 @@
+This function finds two sums from an array. First, it calculates the maximum sum of a contiguous subarray using Kadane’s algorithm. Second, it calculates the maximum sum of a non-contiguous subsequence by adding all positive numbers, or if all numbers are negative, it uses the largest number. Finally, it returns both sums.

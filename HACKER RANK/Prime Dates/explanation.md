@@ -1,0 +1,1 @@
+The program counts how many dates between two given dates form a number (ddmmyyyy) divisible by 4 or 7. It adjusts for leap years, checks each date, and prints the total number of such “prime dates.”

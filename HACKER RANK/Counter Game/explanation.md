@@ -1,0 +1,1 @@
+This function simulates a two-player game between Louise and Richard. Starting with a number n, players take turns reducing it. If n is a power of two, the player divides it by two; otherwise, they subtract the largest power of two less than n. The turns alternate until n becomes 1. The function then returns the winner — “Louise” if she made the last move, otherwise “Richard.”

@@ -1,0 +1,1 @@
+This function generates a modified Fibonacci sequence where each term is the sum of the term two places before it and the square of the previous term. Starting with t1 and t2, it repeats this process until reaching the nth term, then returns that final value.

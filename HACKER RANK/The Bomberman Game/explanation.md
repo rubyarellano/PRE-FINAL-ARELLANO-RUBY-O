@@ -1,0 +1,1 @@
+This function simulates the Bomberman game. If n = 1, it returns the initial grid. If n is even, the grid is completely filled with bombs. For odd n > 1, bombs explode in a cycle: it first calculates the grid after the first explosion and then after the second. Depending on n % 4, it returns either the first or second explosion pattern as the final state.

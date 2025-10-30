@@ -1,0 +1,1 @@
+This function computes the XOR of all elements in all possible contiguous subarrays of an array. It uses the observation that only elements at even positions in an odd-length array appear an odd number of times in the XOR sum. If the array length is even, the result is 0; otherwise, it XORs every second element starting from index 0 and returns the result.

@@ -1,0 +1,1 @@
+This function calculates the minimum number of swaps needed to make an array “beautiful,” meaning sorted in either ascending or descending order. It defines a helper to count swaps by repeatedly placing each element in its correct position. It computes swaps for both ascending and descending orders, then returns the smaller of the two counts.

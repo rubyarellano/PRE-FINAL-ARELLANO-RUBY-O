@@ -1,0 +1,1 @@
+This function finds the minimum unfairness when choosing k elements from an array. It first sorts the array, then looks at every consecutive subarray of size k and calculates the difference between the largest and smallest values. The smallest of these differences is returned as the minimum unfairness.

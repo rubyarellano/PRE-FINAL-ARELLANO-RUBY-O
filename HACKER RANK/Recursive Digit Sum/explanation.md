@@ -1,0 +1,1 @@
+This function computes the super digit of a number formed by concatenating string n k times. It first sums the digits of n and multiplies by k. Then it repeatedly sums the digits of the result until a single-digit number remains. That final single digit is returned as the super digit.

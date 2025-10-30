@@ -1,0 +1,1 @@
+This program finds how many palindromic arrangements can be made from any substring of a given string. It uses prefix arrays to count letters quickly and factorial math with modular arithmetic to calculate combinations. For each query, it returns the total number of palindromes possible within the given range.

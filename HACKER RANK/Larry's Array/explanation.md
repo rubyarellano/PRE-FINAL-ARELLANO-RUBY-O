@@ -1,0 +1,1 @@
+This function checks if an array can be sorted using a specific rotation operation. It counts the number of inversions—pairs where a larger number comes before a smaller one. If the total number of inversions is even, the array can be sorted, so it returns "YES"; otherwise, it returns "NO".

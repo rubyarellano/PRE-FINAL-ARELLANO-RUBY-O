@@ -1,0 +1,1 @@
+This function finds the maximum sum of the top-left quadrant of a matrix after flipping rows or columns any number of times. For each cell in that quadrant, it checks the four possible values that could move into that position through flips and adds the largest one to the total. It then returns the maximum possible sum.

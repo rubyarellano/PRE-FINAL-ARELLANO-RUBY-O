@@ -1,0 +1,1 @@
+This function finds the maximum cost of an array B when creating another array A with 1 ≤ A[i] ≤ B[i], where the cost is the sum of |A[i] − A[i−1]|. It uses dynamic programming with two states: low (if A[i] = 1) and high (if A[i] = B[i]). For each element, it updates these states based on the previous values, then returns the maximum possible cost.

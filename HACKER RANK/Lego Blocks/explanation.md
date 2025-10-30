@@ -1,0 +1,1 @@
+The function legoBlocks(n, m) finds how many solid LEGO walls can be built with n rows and width m using block sizes 1 to 4. It first counts all ways to build one row, then raises that to n for all possible walls. After that, it removes weak walls that can break and returns the number of solid ones using modulo 1e9 + 7.

@@ -1,0 +1,1 @@
+This function calculates the number of ways to make change for n using coins in array c. It uses dynamic programming: ways[i] stores the number of ways to make amount i. For each coin, it updates ways for all amounts that can include that coin. Finally, it returns ways[n], the total number of ways to make n.

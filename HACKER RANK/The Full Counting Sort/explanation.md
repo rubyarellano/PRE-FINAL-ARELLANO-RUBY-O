@@ -1,0 +1,1 @@
+This function implements a modified counting sort. It sorts an array of [key, value] pairs by the numeric key while replacing the first half of the values with "-". It uses buckets for each key to maintain order. Finally, it flattens the buckets and joins the values into a single space-separated string.

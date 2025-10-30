@@ -1,0 +1,1 @@
+The function unboundedKnapsack(k, arr) finds the biggest total value that doesn’t go over the limit k using numbers from arr. It uses a dp array to store the best value for each possible weight. For every number, it checks if adding it gives a better result, and since it’s unbounded, each number can be used many times. Finally, it returns dp[k], the highest value possible.

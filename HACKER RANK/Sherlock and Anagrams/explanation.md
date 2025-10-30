@@ -1,0 +1,1 @@
+This function counts the number of unordered anagrammatic pairs of substrings in a string. It considers all substring lengths, sorts each substring’s characters to get a signature, and uses a map to count how many times each signature appears. Every repeated signature adds to the total number of anagram pairs, which is returned at the end.

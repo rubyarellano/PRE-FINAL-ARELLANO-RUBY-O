@@ -1,0 +1,1 @@
+This function finds the minimum number of pylons needed to power all cities. Starting from the left, it looks for the farthest city within range k that can have a pylon. If none is found, it returns -1 because coverage is impossible. Each time a pylon is placed, it skips ahead by k cities and continues until all are powered, then returns the total number of pylons used.

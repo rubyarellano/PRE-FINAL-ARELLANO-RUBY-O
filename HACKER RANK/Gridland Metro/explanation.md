@@ -1,0 +1,1 @@
+This function calculates the number of unoccupied cells in a grid where some rows have train tracks. It groups track segments by row and merges any overlapping or adjacent tracks to avoid double-counting. After summing all occupied cells, it subtracts that total from the grid’s full size (n × m) to find and return the number of unoccupied cells.

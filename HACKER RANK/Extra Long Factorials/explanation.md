@@ -1,0 +1,1 @@
+This function calculates the factorial of a large number using BigInt to handle very large values. It multiplies all numbers from 1 up to n, storing the result in a BigInt variable. Finally, it prints the factorial as a string to avoid number overflow issues.

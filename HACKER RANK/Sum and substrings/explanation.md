@@ -1,0 +1,1 @@
+This function calculates the sum of all numeric substrings of a number n. It uses dynamic programming: dp[i] stores the sum of all substrings ending at index i. Each dp[i] is computed from dp[i-1] by shifting previous sums by one digit and adding the current digit multiplied by its position. The total sum is updated modulo 10⁹+7 and returned.

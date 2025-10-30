@@ -1,0 +1,1 @@
+This function checks if it’s possible to organize containers so that each contains only one type of ball. It sums the total balls in each container and the total of each ball type. If the sorted totals match, it’s possible to rearrange them; otherwise, it’s impossible. The function returns "Possible" or "Impossible" accordingly.

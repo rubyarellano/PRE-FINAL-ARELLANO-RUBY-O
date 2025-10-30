@@ -1,0 +1,1 @@
+This function checks if a smaller grid P appears inside a larger grid G. It slides P over all possible positions in G and compares each corresponding subgrid. If all rows of P match a part of G, it returns "YES"; otherwise, after checking all positions, it returns "NO".

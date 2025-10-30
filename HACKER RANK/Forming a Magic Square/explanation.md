@@ -1,0 +1,1 @@
+This function finds the minimum cost to convert a 3×3 matrix into a magic square. It compares the given matrix with all eight possible 3×3 magic squares. For each one, it calculates the total difference between corresponding cells, then keeps the smallest total. Finally, it returns that minimum cost.

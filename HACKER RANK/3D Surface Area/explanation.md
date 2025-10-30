@@ -1,0 +1,1 @@
+“I made a function that calculates the total surface area of a 3D structure built from stacked cubes in a grid. It goes through each cell in the grid, adds the top and bottom areas, and then checks all four sides to add only the exposed surfaces. Finally, it returns the total surface area of all the cubes combined.”

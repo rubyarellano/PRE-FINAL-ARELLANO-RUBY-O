@@ -1,0 +1,1 @@
+This function determines the winner of a game where players remove elements from an array. Each time a new maximum value appears, it counts as a move. The player who makes the last move wins. If the number of moves is odd, Bob wins; if even, Andy wins.

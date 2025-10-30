@@ -1,0 +1,1 @@
+This function calculates the maximum profit from stock prices, assuming you can buy any number of stocks and sell them later at the highest future price. It scans the prices from right to left, keeping track of the maximum price seen so far. For each day, it adds the difference between this maximum and the current price to the total profit, then returns the maximum profit.

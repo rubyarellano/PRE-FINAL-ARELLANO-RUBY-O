@@ -1,0 +1,1 @@
+This function finds the minimum number of operations needed to make all numbers in an array equal. Each operation can reduce a number by 1, 2, or 5. It tests targets slightly below the smallest number and calculates how many steps each element needs to reach that target using the fewest moves. Finally, it returns the smallest total number of operations.

@@ -1,0 +1,1 @@
+This function counts the minimum number of bribes in a queue where each person can bribe at most two others to move forward. It checks if anyone has moved more than two places ahead—if so, it’s “Too chaotic.” Otherwise, it counts how many people each person has overtaken by looking at positions just ahead of their original place. Finally, it returns the total number of bribes.

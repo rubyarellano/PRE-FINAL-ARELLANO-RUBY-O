@@ -1,0 +1,1 @@
+The function countArray counts how many arrays of length n can be made using numbers from 1 to k, where no two numbers beside each other are the same, and the last number is x. It keeps track of arrays that end with x and those that don’t, updating them in a loop until it reaches length n. In the end, it returns the total number of valid arrays that end with x.

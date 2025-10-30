@@ -1,0 +1,1 @@
+This function encrypts a message by removing spaces and arranging the characters into a grid. It determines the grid’s rows and columns from the square root of the string’s length, fills it row by row, then reads it column by column. The column strings are joined with spaces to form the encrypted text.

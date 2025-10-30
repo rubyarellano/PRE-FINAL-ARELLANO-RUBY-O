@@ -1,0 +1,1 @@
+This function calculates the number of prime numbers among all ways to build a 4 × n wall using 1 × 1 and 4 × 1 bricks. It first computes the total ways using dynamic programming: for widths less than 4 there’s 1 way, and for larger widths, it’s the sum of ways for n-1 and n-4. Then, it counts how many primes exist up to that total and returns the count.

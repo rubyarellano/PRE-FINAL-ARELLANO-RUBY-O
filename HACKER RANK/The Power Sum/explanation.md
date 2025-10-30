@@ -1,0 +1,1 @@
+This function counts the number of ways to express X as a sum of unique natural numbers raised to the power N. It uses a recursive helper that tries all numbers starting from num, subtracts their Nth power from the target, and recurses with the next number. When the target reaches 0, it counts one valid combination. The total count is returned.
