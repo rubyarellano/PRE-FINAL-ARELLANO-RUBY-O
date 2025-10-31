@@ -1,0 +1,1 @@
+This function permutationGame checks who wins by removing elements until the array is sorted. It uses recursion and memoization to find winning positions — if the result isn’t zero, Alice wins; otherwise, Bob.
